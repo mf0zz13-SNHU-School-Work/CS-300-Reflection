@@ -1,0 +1,4 @@
+﻿  ABCU Advising Program.cpp
+C:\Users\micha\source\repos\CS-300-Project-Two\ABCU Advising Program\ABCU Advising Program.cpp(76,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\micha\source\repos\CS-300-Project-Two\ABCU Advising Program\ABCU Advising Program.cpp(307,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ABCU Advising Program.vcxproj -> C:\Users\micha\source\repos\CS-300-Project-Two\ABCU Advising Program\x64\Debug\ABCU Advising Program.exe
